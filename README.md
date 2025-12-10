@@ -5,9 +5,8 @@ Este projeto foi desenvolvido em **JavaScript** pela escola **TAT - Talking Abou
 O objetivo é criar uma aplicação divertida onde o **personagem Chapolin Colorado** apresenta frases aleatórias, trazendo humor e aprendizado prático de programação.
 
 ## 🗂️ Estrutura de Arquivos
-- **index.html** → Página principal  
-- **style.css** → Estilos visuais da aplicação  
-- **app.js** → Lógica em JavaScript para gerar frases aleatórias  
+- **chapolin.js** → Lógica em JavaScript para gerar frases aleatórias
+- **pedagaDadoAleatroiro.js** → Lógica em JavaScript para gerar frases aleatórias
 
 ## 🚀 Funcionalidades
 - Exibir frases icônicas do **Chapolin Colorado** de forma aleatória  
